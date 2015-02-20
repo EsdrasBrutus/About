@@ -103,3 +103,6 @@ color: white;
 .link {
 	float:bottom;
 }
+.clear{
+	clear: both;
+}
