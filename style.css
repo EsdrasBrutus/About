@@ -1,19 +1,24 @@
 
-p{
+li{
 	text-align: center;
-	color: #312102;
-	font-family: sans-serif;
+	color: black;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 20px; 
+	list-style: none;
+	
 }
 body {
 	background-color: #baac9c;
-	/*background-image: url(http://www.freeppt.net/background/floor-wood-board-wallpapers-backgrounds-for-powerpoint.jpg);*/ 
+	background-image: url(http://i.imgur.com/IJbDBqw.jpg?3); 
 }
 img {
     display: block;
     margin-left: auto;
     margin-right: auto
     }
+.pic{
+	border-radius: 180px;
+}
 
 a:hover{
 		color: #cc0000;
@@ -22,6 +27,6 @@ a:hover{
 }
 h1 {
 	text-align: center;
-	font-family: sans-serif;
-	color: #312102;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
 }
